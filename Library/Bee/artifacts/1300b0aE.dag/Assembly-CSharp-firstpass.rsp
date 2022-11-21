@@ -383,6 +383,7 @@
 "Assets/Plugins/Pixelplacement/iTween/Sample/MoveSample.cs"
 "Assets/Plugins/Pixelplacement/iTween/Sample/RotateSample.cs"
 "Assets/Plugins/Pixelplacement/iTween/Sample/SampleInfo.cs"
+"Assets/Plugins/WebViewObject.cs"
 -langversion:9.0
 
 /deterministic
