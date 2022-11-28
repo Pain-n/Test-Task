@@ -8,7 +8,7 @@ using UnityEngine.UI;
 
 public class AppController : MonoBehaviour
 {
-    [SerializeField] Canvas Canvas;
+    [SerializeField] GameObject CupContainer;
     [SerializeField] Button CupPrefab;
     [SerializeField] GameObject BallPrefab;
     [SerializeField] Transform Spawn;
@@ -26,43 +26,42 @@ public class AppController : MonoBehaviour
 
     void Start()
     {
-        //if (CheckJSONExist() == true)
-        //{
-        //    if(InternetCheck() == true)
-        //    {
-        //        LoadingPanel.SetActive(false);
-        //        webView.gameObject.SetActive(true);
-        //    }
-        //    else
-        //    {
-        //        LoadingPanel.SetActive(false);
-        //        NoInternetPanel.SetActive(true);
-        //    }
-        //}
-        //else
-        //{
-        //    if (InternetCheck() == false)
-        //    {
-        //        NoInternetPanel.SetActive(true);
-        //        return;
-        //    }
-        //    FirebaseRemoteConfig.InitializeFirebase();
-        //    webView.Url = FirebaseRemoteConfig.GetURL();
+        if (CheckJSONExist() == true)
+        {
+            if (InternetCheck() == true)
+            {
+                LoadingPanel.SetActive(false);
+                webView.gameObject.SetActive(true);
+            }
+            else
+            {
+                LoadingPanel.SetActive(false);
+                NoInternetPanel.SetActive(true);
+            }
+        }
+        else
+        {
+            if (InternetCheck() == false)
+            {
+                NoInternetPanel.SetActive(true);
+                return;
+            }
+            FirebaseRemoteConfig.InitializeFirebase();
+            webView.Url = FirebaseRemoteConfig.GetURL();
 
-        //    if (UrlAndDeviceCheck(webView.Url) == true)
-        //    {
-        //        JSONManager.SaveURL(webView.Url);
-        //        LoadingPanel.SetActive(false);
-        //        webView.gameObject.SetActive(true);
-        //    }
-        //    else
-        //    {
-        //        LoadingPanel.SetActive(false);
-        //        StartGame();
-        //    }
-        //}
+            if (UrlAndDeviceCheck(webView.Url) == true)
+            {
+                JSONManager.SaveURL(webView.Url);
+                LoadingPanel.SetActive(false);
+                webView.gameObject.SetActive(true);
+            }
+            else
+            {
+                LoadingPanel.SetActive(false);
+                StartGame();
+            }
+        }
         StartGame();
-
     }
 
     void StartGame()
@@ -84,7 +83,7 @@ public class AppController : MonoBehaviour
             if (random > 5 && CupWithBallIsSetted == false || i == 600 && CupWithBallIsSetted == false)
             {
                 CupWithBallIsSetted = true;
-                CupInstance = Instantiate(CupPrefab, new Vector3(Spawn.position.x + i, Spawn.position.y + 300, 0), Quaternion.identity, Canvas.transform);
+                CupInstance = Instantiate(CupPrefab, new Vector3(Spawn.position.x + i, Spawn.position.y + 300, 0), Quaternion.identity, CupContainer.transform);
                 Cups.Add(CupInstance);
                 CupInstance.tag = "WinCup";
                 UppedCup = CupInstance;
@@ -92,7 +91,7 @@ public class AppController : MonoBehaviour
             }
             else
             {
-                CupInstance = Instantiate(CupPrefab, new Vector3(Spawn.position.x + i, Spawn.position.y, 0), Quaternion.identity, Canvas.transform);
+                CupInstance = Instantiate(CupPrefab, new Vector3(Spawn.position.x + i, Spawn.position.y, 0), Quaternion.identity, CupContainer.transform);
                 Cups.Add(CupInstance);
             }
         }
