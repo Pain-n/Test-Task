@@ -1,0 +1,506 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-80:12
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\aa2f1cd22069a9bb65f1845d902d729f\jetified-androidx.slidingpanelayout.slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:WebViewPlugin:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\369806cf908a55bcca7d74314b7d4739\jetified-WebViewPlugin\AndroidManifest.xml:2:1-11:12
+MERGED from [:com.google.android.gms.play-services-measurement-impl-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-com.google.android.gms.play-services-measurement-impl-21.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\213eec922ba8df30299859d698821a4c\jetified-com.google.android.gms.play-services-measurement-sdk-21.2.0\AndroidManifest.xml:17:1-25:12
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\df8a19ef163eaa8f3d3c8f24458897fd\jetified-androidx.coordinatorlayout.coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\8bab031e716250a6a30588791dc60070\jetified-androidx.lifecycle.lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.firebase.firebase-abt-21.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-com.google.firebase.firebase-abt-21.0.2\AndroidManifest.xml:2:1-19:12
+MERGED from [:com.google.firebase.firebase-components-17.0.1:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\9d31799099672c52461efb49150471e1\jetified-com.google.firebase.firebase-components-17.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [:com.google.firebase.firebase-config-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-com.google.firebase.firebase-config-21.2.0\AndroidManifest.xml:17:1-37:12
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\jetified-androidx.drawerlayout.drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\a083b9190df6cd0b2eed1b8d83acb3d5\jetified-androidx.swiperefreshlayout.swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f1f8381ec1e1c3f6b165a08612cfd883\jetified-androidx.asynclayoutinflater.asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:17:1-46:12
+MERGED from [:com.google.android.gms.play-services-tasks-18.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\eb995569b037619842f42370bc396b38\jetified-com.google.android.gms.play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [:com.google.android.gms.play-services-base-18.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-com.google.android.gms.play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [:com.google.firebase.firebase-config-unity-10.1.1:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\2963ff4d7aec60701207f5d51d15901f\jetified-com.google.firebase.firebase-config-unity-10.1.1\AndroidManifest.xml:3:1-8:12
+MERGED from [:com.google.firebase.firebase-analytics-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\7f8936176cc042a8ba7fd49ee122b578\jetified-com.google.firebase.firebase-analytics-21.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\jetified-androidx.viewpager.viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\73114719268a97e9fd391905563b2ee9\jetified-androidx.arch.core.core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-basement-18.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\jetified-com.google.android.gms.play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\jetified-androidx.cursoradapter.cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-stats-17.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\dabce0ab56ec60697c260429a4f81a09\jetified-com.google.android.gms.play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.firebase.firebase-installations-interop-17.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\468181d8ad06a12c3d8e4f1573a5e141\jetified-com.google.firebase.firebase-installations-interop-17.0.2\AndroidManifest.xml:15:1-23:12
+MERGED from [:com.google.firebase.firebase-installations-17.0.3:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-com.google.firebase.firebase-installations-17.0.3\AndroidManifest.xml:2:1-24:12
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\d711f81259436f09ffdf0b48105165e3\jetified-androidx.localbroadcastmanager.localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\jetified-androidx.interpolator.interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.core.core-1.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\13a5e58bea94f003c68301cd413a09c4\jetified-androidx.core.core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [:com.google.firebase.firebase-app-unity-10.1.1:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\893380900cc0cfdc5e72cc76da7b811f\jetified-com.google.firebase.firebase-app-unity-10.1.1\AndroidManifest.xml:3:1-8:12
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\jetified-androidx.loader.loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\bbcbf6e10ae52a08d3f4cdfbe738c39d\jetified-androidx.fragment.fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.firebase.firebase-common-20.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\ccb613b926aa180dc1259d401bed2796\jetified-com.google.firebase.firebase-common-20.2.0\AndroidManifest.xml:15:1-23:12
+MERGED from [:com.google.firebase.firebase-measurement-connector-19.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f03d50c6756dfe7630a18fa2b6857036\jetified-com.google.firebase.firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f5ec57ec49d0a3e9add695de66a9078c\jetified-androidx.legacy.legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\49417e4536553aa443ec2cdf69bfb2e1\jetified-com.google.android.gms.play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:17:1-28:12
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\18f5c1f0dcc08504bb6a1709d838cf6b\jetified-androidx.legacy.legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\7bcdab9edca68925f6bcb92ddd8a20de\jetified-androidx.documentfile.documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\c6f1e76c078a7e4f5288325854cab247\jetified-androidx.lifecycle.lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\jetified-androidx.versionedparcelable.versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\jetified-androidx.customview.customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\b42ab30b982239949a81eb93ceae6c0b\jetified-androidx.lifecycle.lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\b5d89b627fa174038c4f6556bb02a4ca\jetified-com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\7282e00d74c6a6acf53f4bfd68421266\jetified-androidx.lifecycle.lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-measurement-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-com.google.android.gms.play-services-measurement-api-21.2.0\AndroidManifest.xml:17:1-37:12
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\87e4a5cb4839ebd5d033fa0ae6227780\jetified-androidx.print.print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-measurement-base-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f4dfe60d4dfff09bf915362d7f269fe5\jetified-com.google.android.gms.play-services-measurement-base-21.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [:unityLibrary:FirebaseApp.androidlib] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\FirebaseApp.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:70-103
+		INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:104-150
+	android:versionCode
+		INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:151-191
+supports-screens
+ADDED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
+MERGED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-78:19
+MERGED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-78:19
+MERGED from [:com.google.android.gms.play-services-measurement-impl-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-com.google.android.gms.play-services-measurement-impl-21.2.0\AndroidManifest.xml:29:5-30:19
+MERGED from [:com.google.android.gms.play-services-measurement-impl-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-com.google.android.gms.play-services-measurement-impl-21.2.0\AndroidManifest.xml:29:5-30:19
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\213eec922ba8df30299859d698821a4c\jetified-com.google.android.gms.play-services-measurement-sdk-21.2.0\AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\213eec922ba8df30299859d698821a4c\jetified-com.google.android.gms.play-services-measurement-sdk-21.2.0\AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.firebase.firebase-abt-21.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-com.google.firebase.firebase-abt-21.0.2\AndroidManifest.xml:11:5-17:19
+MERGED from [:com.google.firebase.firebase-abt-21.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-com.google.firebase.firebase-abt-21.0.2\AndroidManifest.xml:11:5-17:19
+MERGED from [:com.google.firebase.firebase-config-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-com.google.firebase.firebase-config-21.2.0\AndroidManifest.xml:27:5-35:19
+MERGED from [:com.google.firebase.firebase-config-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-com.google.firebase.firebase-config-21.2.0\AndroidManifest.xml:27:5-35:19
+MERGED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:28:5-44:19
+MERGED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:28:5-44:19
+MERGED from [:com.google.android.gms.play-services-tasks-18.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\eb995569b037619842f42370bc396b38\jetified-com.google.android.gms.play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-18.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\eb995569b037619842f42370bc396b38\jetified-com.google.android.gms.play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [:com.google.android.gms.play-services-base-18.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-com.google.android.gms.play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [:com.google.android.gms.play-services-base-18.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-com.google.android.gms.play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [:com.google.firebase.firebase-analytics-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\7f8936176cc042a8ba7fd49ee122b578\jetified-com.google.firebase.firebase-analytics-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.firebase.firebase-analytics-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\7f8936176cc042a8ba7fd49ee122b578\jetified-com.google.firebase.firebase-analytics-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-basement-18.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\jetified-com.google.android.gms.play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [:com.google.android.gms.play-services-basement-18.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\jetified-com.google.android.gms.play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [:com.google.android.gms.play-services-stats-17.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\dabce0ab56ec60697c260429a4f81a09\jetified-com.google.android.gms.play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-stats-17.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\dabce0ab56ec60697c260429a4f81a09\jetified-com.google.android.gms.play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.firebase.firebase-installations-17.0.3:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-com.google.firebase.firebase-installations-17.0.3\AndroidManifest.xml:14:5-22:19
+MERGED from [:com.google.firebase.firebase-installations-17.0.3:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-com.google.firebase.firebase-installations-17.0.3\AndroidManifest.xml:14:5-22:19
+MERGED from [:androidx.core.core-1.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\13a5e58bea94f003c68301cd413a09c4\jetified-androidx.core.core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [:androidx.core.core-1.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\13a5e58bea94f003c68301cd413a09c4\jetified-androidx.core.core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [:com.google.firebase.firebase-common-20.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\ccb613b926aa180dc1259d401bed2796\jetified-com.google.firebase.firebase-common-20.2.0\AndroidManifest.xml:19:3-22:17
+MERGED from [:com.google.firebase.firebase-common-20.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\ccb613b926aa180dc1259d401bed2796\jetified-com.google.firebase.firebase-common-20.2.0\AndroidManifest.xml:19:3-22:17
+MERGED from [:com.google.firebase.firebase-measurement-connector-19.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f03d50c6756dfe7630a18fa2b6857036\jetified-com.google.firebase.firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.firebase.firebase-measurement-connector-19.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f03d50c6756dfe7630a18fa2b6857036\jetified-com.google.firebase.firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\jetified-androidx.versionedparcelable.versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\jetified-androidx.versionedparcelable.versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\b5d89b627fa174038c4f6556bb02a4ca\jetified-com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\b5d89b627fa174038c4f6556bb02a4ca\jetified-com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-com.google.android.gms.play-services-measurement-api-21.2.0\AndroidManifest.xml:27:5-35:19
+MERGED from [:com.google.android.gms.play-services-measurement-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-com.google.android.gms.play-services-measurement-api-21.2.0\AndroidManifest.xml:27:5-35:19
+MERGED from [:com.google.android.gms.play-services-measurement-base-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f4dfe60d4dfff09bf915362d7f269fe5\jetified-com.google.android.gms.play-services-measurement-base-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-base-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f4dfe60d4dfff09bf915362d7f269fe5\jetified-com.google.android.gms.play-services-measurement-base-21.2.0\AndroidManifest.xml:7:5-20
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:18-50
+	android:appComponentFactory
+		ADDED from [:androidx.core.core-1.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\13a5e58bea94f003c68301cd413a09c4\jetified-androidx.core.core-1.2.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
+	android:icon
+		ADDED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
+uses-sdk
+INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\aa2f1cd22069a9bb65f1845d902d729f\jetified-androidx.slidingpanelayout.slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\aa2f1cd22069a9bb65f1845d902d729f\jetified-androidx.slidingpanelayout.slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:WebViewPlugin:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\369806cf908a55bcca7d74314b7d4739\jetified-WebViewPlugin\AndroidManifest.xml:7:5-9:41
+MERGED from [:WebViewPlugin:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\369806cf908a55bcca7d74314b7d4739\jetified-WebViewPlugin\AndroidManifest.xml:7:5-9:41
+MERGED from [:com.google.android.gms.play-services-measurement-impl-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-com.google.android.gms.play-services-measurement-impl-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-impl-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-com.google.android.gms.play-services-measurement-impl-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\213eec922ba8df30299859d698821a4c\jetified-com.google.android.gms.play-services-measurement-sdk-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\213eec922ba8df30299859d698821a4c\jetified-com.google.android.gms.play-services-measurement-sdk-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\df8a19ef163eaa8f3d3c8f24458897fd\jetified-androidx.coordinatorlayout.coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\df8a19ef163eaa8f3d3c8f24458897fd\jetified-androidx.coordinatorlayout.coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\8bab031e716250a6a30588791dc60070\jetified-androidx.lifecycle.lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\8bab031e716250a6a30588791dc60070\jetified-androidx.lifecycle.lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-abt-21.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-com.google.firebase.firebase-abt-21.0.2\AndroidManifest.xml:6:5-8:41
+MERGED from [:com.google.firebase.firebase-abt-21.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-com.google.firebase.firebase-abt-21.0.2\AndroidManifest.xml:6:5-8:41
+MERGED from [:com.google.firebase.firebase-components-17.0.1:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\9d31799099672c52461efb49150471e1\jetified-com.google.firebase.firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [:com.google.firebase.firebase-components-17.0.1:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\9d31799099672c52461efb49150471e1\jetified-com.google.firebase.firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [:com.google.firebase.firebase-config-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-com.google.firebase.firebase-config-21.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:com.google.firebase.firebase-config-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-com.google.firebase.firebase-config-21.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\jetified-androidx.drawerlayout.drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\jetified-androidx.drawerlayout.drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\a083b9190df6cd0b2eed1b8d83acb3d5\jetified-androidx.swiperefreshlayout.swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\a083b9190df6cd0b2eed1b8d83acb3d5\jetified-androidx.swiperefreshlayout.swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f1f8381ec1e1c3f6b165a08612cfd883\jetified-androidx.asynclayoutinflater.asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f1f8381ec1e1c3f6b165a08612cfd883\jetified-androidx.asynclayoutinflater.asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-18.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\eb995569b037619842f42370bc396b38\jetified-com.google.android.gms.play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [:com.google.android.gms.play-services-tasks-18.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\eb995569b037619842f42370bc396b38\jetified-com.google.android.gms.play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [:com.google.android.gms.play-services-base-18.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-com.google.android.gms.play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [:com.google.android.gms.play-services-base-18.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-com.google.android.gms.play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [:com.google.firebase.firebase-config-unity-10.1.1:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\2963ff4d7aec60701207f5d51d15901f\jetified-com.google.firebase.firebase-config-unity-10.1.1\AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-config-unity-10.1.1:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\2963ff4d7aec60701207f5d51d15901f\jetified-com.google.firebase.firebase-config-unity-10.1.1\AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-analytics-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\7f8936176cc042a8ba7fd49ee122b578\jetified-com.google.firebase.firebase-analytics-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-analytics-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\7f8936176cc042a8ba7fd49ee122b578\jetified-com.google.firebase.firebase-analytics-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\jetified-androidx.viewpager.viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\jetified-androidx.viewpager.viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\73114719268a97e9fd391905563b2ee9\jetified-androidx.arch.core.core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\73114719268a97e9fd391905563b2ee9\jetified-androidx.arch.core.core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-18.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\jetified-com.google.android.gms.play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [:com.google.android.gms.play-services-basement-18.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\jetified-com.google.android.gms.play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\jetified-androidx.cursoradapter.cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\jetified-androidx.cursoradapter.cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-stats-17.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\dabce0ab56ec60697c260429a4f81a09\jetified-com.google.android.gms.play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-stats-17.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\dabce0ab56ec60697c260429a4f81a09\jetified-com.google.android.gms.play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-installations-interop-17.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\468181d8ad06a12c3d8e4f1573a5e141\jetified-com.google.firebase.firebase-installations-interop-17.0.2\AndroidManifest.xml:19:5-21:41
+MERGED from [:com.google.firebase.firebase-installations-interop-17.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\468181d8ad06a12c3d8e4f1573a5e141\jetified-com.google.firebase.firebase-installations-interop-17.0.2\AndroidManifest.xml:19:5-21:41
+MERGED from [:com.google.firebase.firebase-installations-17.0.3:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-com.google.firebase.firebase-installations-17.0.3\AndroidManifest.xml:6:5-8:41
+MERGED from [:com.google.firebase.firebase-installations-17.0.3:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-com.google.firebase.firebase-installations-17.0.3\AndroidManifest.xml:6:5-8:41
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\d711f81259436f09ffdf0b48105165e3\jetified-androidx.localbroadcastmanager.localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\d711f81259436f09ffdf0b48105165e3\jetified-androidx.localbroadcastmanager.localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\jetified-androidx.interpolator.interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\jetified-androidx.interpolator.interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\13a5e58bea94f003c68301cd413a09c4\jetified-androidx.core.core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.core.core-1.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\13a5e58bea94f003c68301cd413a09c4\jetified-androidx.core.core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:com.google.firebase.firebase-app-unity-10.1.1:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\893380900cc0cfdc5e72cc76da7b811f\jetified-com.google.firebase.firebase-app-unity-10.1.1\AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-app-unity-10.1.1:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\893380900cc0cfdc5e72cc76da7b811f\jetified-com.google.firebase.firebase-app-unity-10.1.1\AndroidManifest.xml:7:3-41
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\jetified-androidx.loader.loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\jetified-androidx.loader.loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\bbcbf6e10ae52a08d3f4cdfbe738c39d\jetified-androidx.fragment.fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\bbcbf6e10ae52a08d3f4cdfbe738c39d\jetified-androidx.fragment.fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-common-20.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\ccb613b926aa180dc1259d401bed2796\jetified-com.google.firebase.firebase-common-20.2.0\AndroidManifest.xml:16:3-72
+MERGED from [:com.google.firebase.firebase-common-20.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\ccb613b926aa180dc1259d401bed2796\jetified-com.google.firebase.firebase-common-20.2.0\AndroidManifest.xml:16:3-72
+MERGED from [:com.google.firebase.firebase-measurement-connector-19.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f03d50c6756dfe7630a18fa2b6857036\jetified-com.google.firebase.firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-measurement-connector-19.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f03d50c6756dfe7630a18fa2b6857036\jetified-com.google.firebase.firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f5ec57ec49d0a3e9add695de66a9078c\jetified-androidx.legacy.legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f5ec57ec49d0a3e9add695de66a9078c\jetified-androidx.legacy.legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\49417e4536553aa443ec2cdf69bfb2e1\jetified-com.google.android.gms.play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\49417e4536553aa443ec2cdf69bfb2e1\jetified-com.google.android.gms.play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\18f5c1f0dcc08504bb6a1709d838cf6b\jetified-androidx.legacy.legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\18f5c1f0dcc08504bb6a1709d838cf6b\jetified-androidx.legacy.legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\7bcdab9edca68925f6bcb92ddd8a20de\jetified-androidx.documentfile.documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\7bcdab9edca68925f6bcb92ddd8a20de\jetified-androidx.documentfile.documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\c6f1e76c078a7e4f5288325854cab247\jetified-androidx.lifecycle.lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\c6f1e76c078a7e4f5288325854cab247\jetified-androidx.lifecycle.lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\jetified-androidx.versionedparcelable.versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\jetified-androidx.versionedparcelable.versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\jetified-androidx.customview.customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\jetified-androidx.customview.customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\b42ab30b982239949a81eb93ceae6c0b\jetified-androidx.lifecycle.lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\b42ab30b982239949a81eb93ceae6c0b\jetified-androidx.lifecycle.lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\b5d89b627fa174038c4f6556bb02a4ca\jetified-com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\b5d89b627fa174038c4f6556bb02a4ca\jetified-com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\7282e00d74c6a6acf53f4bfd68421266\jetified-androidx.lifecycle.lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\7282e00d74c6a6acf53f4bfd68421266\jetified-androidx.lifecycle.lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-com.google.android.gms.play-services-measurement-api-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-com.google.android.gms.play-services-measurement-api-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\87e4a5cb4839ebd5d033fa0ae6227780\jetified-androidx.print.print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\87e4a5cb4839ebd5d033fa0ae6227780\jetified-androidx.print.print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f4dfe60d4dfff09bf915362d7f269fe5\jetified-com.google.android.gms.play-services-measurement-base-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f4dfe60d4dfff09bf915362d7f269fe5\jetified-com.google.android.gms.play-services-measurement-base-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [:unityLibrary:FirebaseApp.androidlib] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\FirebaseApp.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:40
+MERGED from [:unityLibrary:FirebaseApp.androidlib] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\FirebaseApp.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:40
+INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:9-55
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-impl-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-com.google.android.gms.play-services-measurement-impl-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-impl-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-com.google.android.gms.play-services-measurement-impl-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-config-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-com.google.firebase.firebase-config-21.2.0\AndroidManifest.xml:25:5-67
+MERGED from [:com.google.firebase.firebase-config-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-com.google.firebase.firebase-config-21.2.0\AndroidManifest.xml:25:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-installations-17.0.3:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-com.google.firebase.firebase-installations-17.0.3\AndroidManifest.xml:11:5-67
+MERGED from [:com.google.firebase.firebase-installations-17.0.3:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-com.google.firebase.firebase-installations-17.0.3\AndroidManifest.xml:11:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\49417e4536553aa443ec2cdf69bfb2e1\jetified-com.google.android.gms.play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\49417e4536553aa443ec2cdf69bfb2e1\jetified-com.google.android.gms.play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-com.google.android.gms.play-services-measurement-api-21.2.0\AndroidManifest.xml:22:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-com.google.android.gms.play-services-measurement-api-21.2.0\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-impl-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-com.google.android.gms.play-services-measurement-impl-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-impl-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-com.google.android.gms.play-services-measurement-impl-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.firebase.firebase-config-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-com.google.firebase.firebase-config-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.firebase.firebase-config-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-com.google.firebase.firebase-config-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.firebase.firebase-installations-17.0.3:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-com.google.firebase.firebase-installations-17.0.3\AndroidManifest.xml:10:5-79
+MERGED from [:com.google.firebase.firebase-installations-17.0.3:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-com.google.firebase.firebase-installations-17.0.3\AndroidManifest.xml:10:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\49417e4536553aa443ec2cdf69bfb2e1\jetified-com.google.android.gms.play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\49417e4536553aa443ec2cdf69bfb2e1\jetified-com.google.android.gms.play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-com.google.android.gms.play-services-measurement-api-21.2.0\AndroidManifest.xml:23:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-com.google.android.gms.play-services-measurement-api-21.2.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:22-76
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:9-51:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-49
+	android:launchMode
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-47
+	android:resizeableActivity
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-194
+	android:theme
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-54
+	android:name
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-47:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-50:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:9-55:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:9-58:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:9-61:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-51
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:9-64:37
+	android:value
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-34
+	android:name
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:9-67:50
+	android:value
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-47
+	android:name
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:13-40
+provider#androidx.core.content.FileProvider
+ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:69:9-77:20
+	android:grantUriPermissions
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:73:13-47
+	android:authorities
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:71:13-84
+	android:exported
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:72:13-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:70:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:74:13-76:76
+	android:resource
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:76:17-73
+	android:name
+		ADDED from [:unityLibrary] C:\Users\pain4\GitHub\Test Task\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:75:17-67
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:com.google.android.gms.play-services-measurement-impl-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-com.google.android.gms.play-services-measurement-impl-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\49417e4536553aa443ec2cdf69bfb2e1\jetified-com.google.android.gms.play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\49417e4536553aa443ec2cdf69bfb2e1\jetified-com.google.android.gms.play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-com.google.android.gms.play-services-measurement-api-21.2.0\AndroidManifest.xml:24:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-com.google.android.gms.play-services-measurement-api-21.2.0\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-impl-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-com.google.android.gms.play-services-measurement-impl-21.2.0\AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [:com.google.android.gms.play-services-measurement-impl-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-com.google.android.gms.play-services-measurement-impl-21.2.0\AndroidManifest.xml:26:5-110
+MERGED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:26:5-110
+MERGED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-impl-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-com.google.android.gms.play-services-measurement-impl-21.2.0\AndroidManifest.xml:26:22-107
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [:com.google.android.gms.play-services-measurement-impl-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-com.google.android.gms.play-services-measurement-impl-21.2.0\AndroidManifest.xml:27:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\49417e4536553aa443ec2cdf69bfb2e1\jetified-com.google.android.gms.play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:26:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\49417e4536553aa443ec2cdf69bfb2e1\jetified-com.google.android.gms.play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:26:5-79
+MERGED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\b5d89b627fa174038c4f6556bb02a4ca\jetified-com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\b5d89b627fa174038c4f6556bb02a4ca\jetified-com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-com.google.android.gms.play-services-measurement-api-21.2.0\AndroidManifest.xml:25:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-com.google.android.gms.play-services-measurement-api-21.2.0\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-impl-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-com.google.android.gms.play-services-measurement-impl-21.2.0\AndroidManifest.xml:27:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:com.google.firebase.firebase-abt-21.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-com.google.firebase.firebase-abt-21.0.2\AndroidManifest.xml:12:9-16:19
+MERGED from [:com.google.firebase.firebase-config-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-com.google.firebase.firebase-config-21.2.0\AndroidManifest.xml:28:9-34:19
+MERGED from [:com.google.firebase.firebase-config-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-com.google.firebase.firebase-config-21.2.0\AndroidManifest.xml:28:9-34:19
+MERGED from [:com.google.firebase.firebase-installations-17.0.3:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-com.google.firebase.firebase-installations-17.0.3\AndroidManifest.xml:15:9-21:19
+MERGED from [:com.google.firebase.firebase-installations-17.0.3:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-com.google.firebase.firebase-installations-17.0.3\AndroidManifest.xml:15:9-21:19
+MERGED from [:com.google.firebase.firebase-common-20.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\ccb613b926aa180dc1259d401bed2796\jetified-com.google.firebase.firebase-common-20.2.0\AndroidManifest.xml:21:5-164
+MERGED from [:com.google.firebase.firebase-common-20.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\ccb613b926aa180dc1259d401bed2796\jetified-com.google.firebase.firebase-common-20.2.0\AndroidManifest.xml:21:5-164
+MERGED from [:com.google.android.gms.play-services-measurement-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-com.google.android.gms.play-services-measurement-api-21.2.0\AndroidManifest.xml:28:9-34:19
+MERGED from [:com.google.android.gms.play-services-measurement-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-com.google.android.gms.play-services-measurement-api-21.2.0\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [:com.google.firebase.firebase-config-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-com.google.firebase.firebase-config-21.2.0\AndroidManifest.xml:30:13-37
+	tools:targetApi
+		ADDED from [:com.google.firebase.firebase-common-20.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\ccb613b926aa180dc1259d401bed2796\jetified-com.google.firebase.firebase-common-20.2.0\AndroidManifest.xml:21:142-161
+	android:directBootAware
+		ADDED from [:com.google.firebase.firebase-common-20.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\ccb613b926aa180dc1259d401bed2796\jetified-com.google.firebase.firebase-common-20.2.0\AndroidManifest.xml:21:86-116
+	android:name
+		ADDED from [:com.google.firebase.firebase-abt-21.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-com.google.firebase.firebase-abt-21.0.2\AndroidManifest.xml:12:18-89
+meta-data#com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar
+ADDED from [:com.google.firebase.firebase-abt-21.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-com.google.firebase.firebase-abt-21.0.2\AndroidManifest.xml:13:13-15:85
+	android:value
+		ADDED from [:com.google.firebase.firebase-abt-21.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-com.google.firebase.firebase-abt-21.0.2\AndroidManifest.xml:15:17-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-abt-21.0.2:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-com.google.firebase.firebase-abt-21.0.2\AndroidManifest.xml:14:17-109
+meta-data#com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar
+ADDED from [:com.google.firebase.firebase-config-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-com.google.firebase.firebase-config-21.2.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [:com.google.firebase.firebase-config-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-com.google.firebase.firebase-config-21.2.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-config-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-com.google.firebase.firebase-config-21.2.0\AndroidManifest.xml:32:17-117
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-com.google.android.gms.play-services-measurement-21.2.0\AndroidManifest.xml:40:13-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [:com.google.android.gms.play-services-base-18.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-com.google.android.gms.play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-base-18.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-com.google.android.gms.play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-base-18.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-com.google.android.gms.play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [:com.google.android.gms.play-services-base-18.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-com.google.android.gms.play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-18.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\jetified-com.google.android.gms.play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-18.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\jetified-com.google.android.gms.play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-18.1.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\jetified-com.google.android.gms.play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [:com.google.firebase.firebase-installations-17.0.3:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-com.google.firebase.firebase-installations-17.0.3\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [:com.google.firebase.firebase-installations-17.0.3:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-com.google.firebase.firebase-installations-17.0.3\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-installations-17.0.3:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-com.google.firebase.firebase-installations-17.0.3\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [:com.google.firebase.firebase-common-20.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\ccb613b926aa180dc1259d401bed2796\jetified-com.google.firebase.firebase-common-20.2.0\AndroidManifest.xml:20:5-229
+	android:authorities
+		ADDED from [:com.google.firebase.firebase-common-20.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\ccb613b926aa180dc1259d401bed2796\jetified-com.google.firebase.firebase-common-20.2.0\AndroidManifest.xml:20:80-146
+	android:exported
+		ADDED from [:com.google.firebase.firebase-common-20.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\ccb613b926aa180dc1259d401bed2796\jetified-com.google.firebase.firebase-common-20.2.0\AndroidManifest.xml:20:178-202
+	android:directBootAware
+		ADDED from [:com.google.firebase.firebase-common-20.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\ccb613b926aa180dc1259d401bed2796\jetified-com.google.firebase.firebase-common-20.2.0\AndroidManifest.xml:20:147-177
+	android:initOrder
+		ADDED from [:com.google.firebase.firebase-common-20.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\ccb613b926aa180dc1259d401bed2796\jetified-com.google.firebase.firebase-common-20.2.0\AndroidManifest.xml:20:203-226
+	android:name
+		ADDED from [:com.google.firebase.firebase-common-20.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\ccb613b926aa180dc1259d401bed2796\jetified-com.google.firebase.firebase-common-20.2.0\AndroidManifest.xml:20:15-79
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [:com.google.android.gms.play-services-measurement-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-com.google.android.gms.play-services-measurement-api-21.2.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [:com.google.android.gms.play-services-measurement-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-com.google.android.gms.play-services-measurement-api-21.2.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-api-21.2.0:] C:\Users\pain4\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-com.google.android.gms.play-services-measurement-api-21.2.0\AndroidManifest.xml:32:17-139

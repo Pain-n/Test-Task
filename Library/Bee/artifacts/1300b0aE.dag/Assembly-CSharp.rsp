@@ -123,6 +123,11 @@
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"Assets/Firebase/Plugins/Firebase.App.dll"
+-r:"Assets/Firebase/Plugins/Firebase.Platform.dll"
+-r:"Assets/Firebase/Plugins/Firebase.RemoteConfig.dll"
+-r:"Assets/Firebase/Plugins/Firebase.TaskExtension.dll"
+-r:"Assets/Firebase/Plugins/Google.MiniJson.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.12f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.12f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.12f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
@@ -380,8 +385,12 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/GameController.cs"
+"Assets/AppController.cs"
+"Assets/ConsoleToGUI.cs"
+"Assets/FirebaseRemoteConfig.cs"
+"Assets/JSONManager.cs"
 "Assets/Restart.cs"
+"Assets/SampleWebView.cs"
 -langversion:9.0
 
 /deterministic
